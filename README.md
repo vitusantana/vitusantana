@@ -5,7 +5,8 @@
    
 
 </div>
-<img src="https://www.linkedin.com/in/vitusantana/overlay/background-image/">
+![Group 3551](https://github.com/user-attachments/assets/840a937f-08b0-49ea-a9cc-8ea890cdfd00)
+
 
 
 <div style="display: inline_block"><br>
