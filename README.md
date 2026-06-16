@@ -1,29 +1,24 @@
-## Bem-vindo(a) ao perfil do vitusantana 😁
+# Bem-vindo(a) ao perfil do vitusantana 👋
 
- <div>
-   <a href="https://github.com/vitusantana">
-</div>
+🚀 Profissional de tecnologia focado na área de **Quality Assurance (QA)**. Utilizo minha base em desenvolvimento e análise de sistemas para garantir a entrega de produtos com alta qualidade, excelência e eficiência operacional.
 
-- 🔥 DEV em aprendizado.
-- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, TypeScript**
+- 🎯 **Foco atual:** Garantia de Qualidade, Automação de Testes (E2E/API) e Processos Ágeis.
+- 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas (ADS).
+- 💬 **Pergunte-me sobre:** Automação de testes, gerenciamento de ciclo de vida de bugs, Metodologias Ágeis (Scrum/Kanban) e lógica de programação aplicada a QA.
 
-<div style="display: inline_block"><br>
- 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+---
+
+### 🛠️ Tecnologias e Ferramentas de QA
+
+#### Automação & Linguagens
+![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-         
- <br>
- 
-  ### Meios de contato:
- 
-<div> 
-  <a href = "mailto:vitorsantanatrabalho@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitusantana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+#### Gestão de Testes & Agilidade
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Zephyr](https://img.shields.io/badge/-Zephyr-%230073EA?style=for-the-badge)
+
+---
